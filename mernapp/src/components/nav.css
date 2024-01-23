@@ -1,0 +1,38 @@
+/* nav.css */
+.navbar-custom {
+    background-color: #4CAF50; /* Change this color to the one you prefer */
+  }
+  /* nav.css */
+
+/* Update button styles */
+.btn {
+  font-weight: bold;
+  /* Add any other styles for an elegant look */
+}
+
+/* Update navbar brand font */
+.navbar-brand {
+  font-weight: bold;
+  /* Add any other styles for an elegant look */
+}
+
+/* Update navbar links */
+.navbar a {
+  font-weight: bold;
+  /* Add any other styles for an elegant look */
+}
+/* nav.css */
+
+/* Update button styles */
+.btn {
+  font-weight: bold;
+  transition: all 0.3s ease; /* Add transition for smooth effect */
+  /* Add any other styles for an elegant look */
+}
+
+/* Add hover effect for buttons */
+.btn:hover {
+  opacity: 0.8; /* Example change on hover, you can modify this */
+  /* Add any other hover effects you prefer */
+}
+
